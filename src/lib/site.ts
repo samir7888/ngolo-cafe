@@ -12,8 +12,8 @@ export const site = {
     "Ngolo's Cafe & Bistro is a cafe on ADP Road at Thakali Chowk, Kanchan, Rudrapur (Rupandehi). Fresh espresso, cold coffee, steam and jhol momo, sandwiches, pasta and desserts. Open daily.",
 
   // TODO(owner): real phone number (also used for the call button and schema)
-  phone: "+977 98XXXXXXXX",
-  phoneHref: "tel:+97798XXXXXXXX",
+  phone: "+977 9763662994",
+  phoneHref: "tel:+9779763662994",
 
   address: {
     street: "Thakali Chowk, ADP Road",
@@ -30,7 +30,7 @@ export const site = {
   // Taken from the cafe's own public pages.
   social: {
     facebook: "https://www.facebook.com/p/Ngolos-Cafe-Bistro-61573922379932/",
-    tiktok: "https://www.tiktok.com/@ngolos.cafe.bistro",
+    tiktok: "https://www.tiktok.com/@ngoloscafe",
   },
 
   // TODO(owner): confirm kitchen time and takeaway policy
