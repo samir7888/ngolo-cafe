@@ -12,7 +12,7 @@ const u = (id: string, w = 1400) =>
 
 export const images = {
   hero: {
-    src: "/img/hero-interior.jpg",
+    src: "/img/home.webp",
     fallback: u("photo-1554118811-1e0d58224f24", 1200),
     alt: "A warm wooden table by the window with a fresh cup of coffee at Ngolo's",
   },
